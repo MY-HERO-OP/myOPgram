@@ -9,7 +9,7 @@ with open("README.rst", "r", encoding="utf-8") as fh:
 
 desc = "Package containing basic functions to build telegram bots."
 GPL = "GNU AFFERO GENERAL PUBLIC LICENSE (v3)"
-git = "https://github.com/Prime-Hritu/myrogram"
+git = "https://github.com/MY-HERO-OP/myOPgram"
 classify = [
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.6",
@@ -27,9 +27,9 @@ requirements = [
 
 
 setuptools.setup(
-    name="myrogram",
+    name="myOPgram",
     version=ver,
-    author="prime-hritu",
+    author="MY-HERO-OP",
     description=desc,
     long_description=long_desc,
     long_description_content_type="text/markdown",
