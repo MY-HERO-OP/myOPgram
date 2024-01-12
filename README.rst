@@ -9,9 +9,9 @@ install
 
 .. code:: python
     
-    pip install https://github.com/Prime-Hritu/myrogram/
+    pip install https://github.com/MY-HERO-OP/myOPgram/
 
 Usage
 =====
 
-``myrogram``
+``myOPgram``
