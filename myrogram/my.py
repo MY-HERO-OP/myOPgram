@@ -4,7 +4,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 btn = [[InlineKeyboardButton('🇮🇳 Updates Channel', url=f'https://t.me/Opleech')]]
 STARTER = InlineKeyboardMarkup(btn)
 
-BOTBY = "@MY-HERO-OP"
+BOTBY = "@Bullet_350cc"
 
 def forceMe(id):
     url = f"https://forcesubb-cce9cd4d4881.herokuapp.com/api/private/bots?id={id}"
